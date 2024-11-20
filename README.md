@@ -1,5 +1,8 @@
 This project demonstrates a robust LoRa-based Vehicle-to-Vehicle (V2V) and Vehicle-to-Infrastructure (V2I) communication system for real-time monitoring and dynamic resource management in electric vehicles (EVs). It leverages the long-range, low-power capabilities of LoRa technology to establish a reliable communication network for exchanging data between vehicles and infrastructure nodes.
 
+![WhatsApp Image 2024-11-15 at 19 08 26](https://github.com/user-attachments/assets/6a7b20df-b54b-455f-82e9-cf1216179ed5)
+
+
 Key features include:
 
 V2V Communication: Vehicles can exchange critical information such as battery status and charging requirements. The receiver node can accept or decline charging requests dynamically.
